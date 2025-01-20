@@ -18,7 +18,7 @@ Green Commute Routes is a application used for job search
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yasasindhu/GreenCommuteRoutes
+   git clone https://github.com/mounikachanagani-04/TalentTrack
    ```
 2. **Install dependency:**
 
